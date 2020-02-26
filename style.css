@@ -13,7 +13,7 @@
 }
 
 body {
-  background: radial-gradient(#fec215, #f8a90c);
+  background: radial-gradient(#E295AA, #9F1B3E);
 }
 
 .text {
@@ -25,7 +25,7 @@ body {
   text-align: center;
   margin-top: calc(35vh - .5em);
   font-family: cursive;
-  color: hsla(35, 99%, 50%, .3);
+  color: #A47E88;
   z-index: -1
 
 }
@@ -39,6 +39,6 @@ body {
   text-align: center;
   margin-top: calc(55vh - .5em);
   font-family: Monoton;
-  color: hsla(35, 99%, 50%, .3);
+  color: #A47E88;
   z-index: -1
 }
