@@ -21,7 +21,7 @@ body {
   left: 0;
   top: 0;
   width: 100vw;
-  font-size: 5vw;
+  font-size: 10vw;
   text-align: center;
   color: #A47E88;
   z-index: -1
@@ -46,5 +46,5 @@ body {
 .name {
   margin-top: calc(55vh - .5em);
   font-family: Monoton;
-  font-size: 10vw;
+  font-size: 15vw;
 }
